@@ -12,7 +12,7 @@ public class Main {
 
     System.out.println(cir.toString());
     System.out.println("The area of the Circle = " + cir.getArea());
-    System.out.println("The perimeter of the Circle = " + cir.getPerimeter());
+    System.out.println("The perimeter of the CCircle = " + cir.getPerimeter());
 
     System.out.println(rect.toString());
     System.out.println("The area of the Rectangle = " + rect.getArea());
